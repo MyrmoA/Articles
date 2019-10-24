@@ -1,4 +1,4 @@
-#MVVM with Swift application 2/3 - Bindable section:
+# MVVM with Swift application 2/3 - Bindable section:
 [Article Link](http://swiftyjimmy.com/mvvm-with-swift-application-23/)
 _SwiftyJimmy_
 February 22, 2017
@@ -60,7 +60,7 @@ The difference between `bind` and `bindAndFire` is that `bindAndFire` also retur
 ---
 
 
-#Bindable Values in Swift
+# Bindable Values in Swift
 [Article Link](https://www.swiftbysundell.com/posts/bindable-values-in-swift)
 _Swift by Sundell_
 March 31, 2019
