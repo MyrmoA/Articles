@@ -1,7 +1,7 @@
 # A Framework for Making Smarter Decisions and Fewer Errors
- _Unknown?_
-
+ _Farnam Street_
 [Article Link](https://fs.blog/smart-decisions)
+
 
 > Few things will change your trajectory in life as effectively as learning to make better decisions.
 
